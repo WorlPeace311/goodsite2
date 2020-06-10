@@ -1,2 +1,2 @@
-# Goodsite2
+# goodsite2
 Secure web site template.  
